@@ -12,12 +12,6 @@ A complex roguelike dungeon crawler featuring procedural generation, combat syst
 - Achievement system
 - Dynamic lighting system
 - Quest system
-
-## Installation
-```bash
-pip install -r requirements.txt
-python src/main.py
-
 Controls:
 WASD: Movement
 E: Interact
@@ -26,3 +20,7 @@ Space: Attack
 1-4: Quick items
 M: Map
 ESC: Menu
+## Installation
+```bash
+pip install -r requirements.txt
+python src/main.py
