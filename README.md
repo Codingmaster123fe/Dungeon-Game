@@ -19,7 +19,6 @@ I: Inventory
 Space: Attack
 1-4: Quick items
 M: Map
-ESC: Menu
 ## Installation
 ```bash
 pip install -r requirements.txt
