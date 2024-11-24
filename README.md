@@ -2,7 +2,7 @@
 
 A complex roguelike dungeon crawler featuring procedural generation, combat system, inventory management, and multiple character classes.
 
-## Features
+# Features
 - Procedurally generated dungeons with multiple levels
 - Advanced combat system with different attack patterns
 - Character classes: Warrior, Mage, Rogue, Cleric
