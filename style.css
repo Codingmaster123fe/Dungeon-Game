@@ -5,12 +5,17 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #2c2c2c;
+    background-color: #000;
     font-family: Arial, sans-serif;
+    color: white;
 }
 
 .game-container {
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
 }
 
 .hud {
@@ -31,9 +36,18 @@ body {
     color: white;
     margin-top: 20px;
     text-align: center;
+    font-size: 1.2em;
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
 }
 
 .stats span {
     margin-right: 20px;
     color: #ffd700;
+    font-weight: bold;
+    font-size: 1.1em;
 }
