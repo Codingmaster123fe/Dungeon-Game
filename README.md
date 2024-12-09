@@ -19,6 +19,6 @@ I: Inventory
 Space: Attack
 1-4: Quick items
 M: Map
-## Installation
+## To Play It
 ```bash
 https://dungeon-game-4bbzju4sd-codingmaster123fes-projects.vercel.app
