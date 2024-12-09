@@ -21,5 +21,4 @@ Space: Attack
 M: Map
 ## Installation
 ```bash
-pip install -r requirements.txt
-python src/main.py
+The link to the game is https://dungeon-game-4bbzju4sd-codingmaster123fes-projects.vercel.app
